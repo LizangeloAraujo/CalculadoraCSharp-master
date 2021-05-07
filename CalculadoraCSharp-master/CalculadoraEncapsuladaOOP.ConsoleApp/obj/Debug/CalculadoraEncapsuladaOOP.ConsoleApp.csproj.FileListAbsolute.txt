@@ -1,0 +1,14 @@
+C:\Users\fvanz\source\repos\CalculadoraEncapsuladaOOP\CalculadoraEncapsuladaOOP.ConsoleApp\bin\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.exe.config
+C:\Users\fvanz\source\repos\CalculadoraEncapsuladaOOP\CalculadoraEncapsuladaOOP.ConsoleApp\bin\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.exe
+C:\Users\fvanz\source\repos\CalculadoraEncapsuladaOOP\CalculadoraEncapsuladaOOP.ConsoleApp\bin\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.pdb
+C:\Users\fvanz\source\repos\CalculadoraEncapsuladaOOP\CalculadoraEncapsuladaOOP.ConsoleApp\obj\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\fvanz\source\repos\CalculadoraEncapsuladaOOP\CalculadoraEncapsuladaOOP.ConsoleApp\obj\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fvanz\source\repos\CalculadoraEncapsuladaOOP\CalculadoraEncapsuladaOOP.ConsoleApp\obj\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.exe
+C:\Users\fvanz\source\repos\CalculadoraEncapsuladaOOP\CalculadoraEncapsuladaOOP.ConsoleApp\obj\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.pdb
+C:\Users\User\Downloads\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP.ConsoleApp\obj\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\User\Downloads\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP.ConsoleApp\obj\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP.ConsoleApp\obj\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.exe
+C:\Users\User\Downloads\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP.ConsoleApp\obj\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.pdb
+C:\Users\User\Downloads\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP.ConsoleApp\bin\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.exe.config
+C:\Users\User\Downloads\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP.ConsoleApp\bin\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.exe
+C:\Users\User\Downloads\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP-master\CalculadoraEncapsuladaOOP.ConsoleApp\bin\Debug\CalculadoraEncapsuladaOOP.ConsoleApp.pdb
